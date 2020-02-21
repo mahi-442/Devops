@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Learning about git
+=======
+this line added in github ui
+>>>>>>> d7bb04c86a3cdca84ab23d4ace352473e9490a1f
